@@ -1,4 +1,4 @@
-# Data Analyzer with AI Chatbot
+# Data Analyzer AI Chatbot
 
 A personal project to build website integrated with chatbot for analyzing data using OpenAI and LangChain. Either you can upload a PDF file or drop in a website URL, and then you can chat with an AI chatbot about whatever is in that document or webpage. Built with FastAPI on the backend and Vue 3 on the frontend.
 
