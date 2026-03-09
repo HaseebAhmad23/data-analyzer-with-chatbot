@@ -1,7 +1,5 @@
 # Data Analyzer AI Chatbot
 
-A personal project to build website integrated with chatbot for analyzing data using OpenAI and LangChain. Either you can upload a PDF file or drop in a website URL, and then you can chat with an AI chatbot about whatever is in that document or webpage. Built with FastAPI on the backend and Vue 3 on the frontend.
-
 ![Vue 3](https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-bf5427?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -10,6 +8,9 @@ A personal project to build website integrated with chatbot for analyzing data u
 ![CSS3](https://img.shields.io/badge/CSS3-green?style=for-the-badge&logo=css3&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-bf5427?style=for-the-badge&logo=openai&logoColor=white)
 
+A personal project to build website integrated with chatbot for analyzing data using OpenAI and LangChain. Either you can upload a PDF file or drop in a website URL, and then you can chat with an AI chatbot about whatever is in that document or webpage. Built with FastAPI on the backend and Vue 3 on the frontend.
+
+#### Live Demo: https://data-analyzer-with-chatbot.vercel.app/
 
 ## What it does
 
